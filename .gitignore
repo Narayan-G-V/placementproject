@@ -1,0 +1,14 @@
+# Byte-code
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual environment / IDE
+.idea/
+*.iml
+.vscode/
+bin/
+out/
